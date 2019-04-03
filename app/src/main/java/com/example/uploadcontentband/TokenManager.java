@@ -10,8 +10,8 @@ import java.util.concurrent.ExecutionException;
 
 public class TokenManager {
     private static final String RESPONSE_TYPE = "code";
-    private static final String CLIENT_ID = "262377200";
-    private static final String CLIENT_SECRET = "BUN7vGaHiBngVJQots9z3rm3ZYvGT_H-";
+    private static final String CLIENT_ID = "id";
+    private static final String CLIENT_SECRET = "secret";
     private static final String REDIRECT_URI = "www.example.com";
     private static final String GRANT_TYPE = "authorization_code";
 
